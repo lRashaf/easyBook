@@ -6,10 +6,10 @@
 ## 📸 Screenshots
 
 ### 🏝️ Homepage
-![Homepage](./src/assets/homepage.png)
+![Homepage](./src/assets/Homepage.png)
 
 ### 🏨 Booking Page
-![Booking](./src/assets/booking.png)
+![Booking](./src/assets/Booking.png)
 
 
 ## 🔗 Live Site
